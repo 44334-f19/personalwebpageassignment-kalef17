@@ -1,1 +1,13 @@
 /*Personal Web Page Style Sheet */
+body {background-color: rebeccapurple;
+    color: #ffffff
+    text-align: center;}
+h1 {font-family : Arial, sans-serif;
+    padding: 60px;
+    text-align: center;}
+h2 {font-family : Arial, sans-serif;}
+h3 {font-family : Arial, sans-serif;}
+a:link {color : darkblue;}
+a:active {color : red;}
+a:hover {color : teal;}
+ul.a {list-style-type: circle;}
